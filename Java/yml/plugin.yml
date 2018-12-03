@@ -1,0 +1,11 @@
+name: JavaForBukkit
+version: 1.0
+main: me.thiago.jfb.Main
+
+commands:
+    site:
+    fome:
+    morrendo:
+    ultimo-jogador: 
+    vezes:
+    
